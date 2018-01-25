@@ -1,0 +1,21 @@
+.navbar {
+  margin-bottom: 15px;
+}
+
+.search-bar {
+  margin: 0 0 0 auto;
+  width: 355px !important;
+}
+
+.video-list-item {
+  cursor: pointer;
+}
+
+.video-list-item:hover {
+  background-color: #f7f7f9;
+}
+
+.fa-spinner {
+  display: block;
+  margin: 4em 0 0 6em;
+}
